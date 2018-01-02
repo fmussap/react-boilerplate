@@ -1,7 +1,10 @@
-# Git Commands
+# React + Redux + Firebase + Google Authentication
 
-git init - Create a new git repo
-git status - View the changes to your project code
-git add - Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+A react boilerplate created with **ReactJs**, **Redux** and **Firebase**.
+
+To install it:
+1) Clone this repo;
+2) You must use your own firebase config info --> /imports/config/*.js
+3) In the main directory run ``yarn install``
+
+that's it !!
